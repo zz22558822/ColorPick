@@ -1,0 +1,4 @@
+pyautogui
+PyQt6
+keyboard
+pyperclip
